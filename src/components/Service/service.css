@@ -1,0 +1,41 @@
+.service {
+    background: #FFFFFF;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 49px 40px;
+}
+.service .service-image{
+    height: 90px;
+    width: 90px;
+    margin: 0 auto;
+    border: 1px solid #000;
+    border-left: 5px solid #000;
+    border-bottom: 5px solid #000;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.service .service-image img{
+    height: auto;
+    width: 50px;
+    object-fit: cover;
+}
+.service h2{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 33px;
+    color: #000000;
+    margin-bottom: 15px;
+}
+.service p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+}

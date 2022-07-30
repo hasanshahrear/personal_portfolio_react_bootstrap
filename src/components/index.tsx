@@ -1,0 +1,14 @@
+export {default as NavBar} from './NavBar/NavBar';
+export {default as Hero} from './Hero/Hero';
+export {default as Heading} from './Heading/Heading';
+export {default as About} from './About/About';
+export {default as Skills} from './Skills/Skills';
+export {default as Timeline} from './Timeline/Timeline';
+export {default as Certificate} from './Certificate/Certificate';
+export {default as Services} from './Services/Services';
+export {default as Service} from './Service/Service';
+export {default as Portfolio} from './Portfolio/Portfolio';
+export {default as PortfolioItem} from './PortfolioItem/PortfolioItem';
+export {default as PortfolioButton} from './PortfolioButton/PortfolioButton';
+export {default as Contact} from './Contact/Contact';
+export {default as Footer} from './Footer/Footer';

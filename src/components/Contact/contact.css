@@ -1,0 +1,24 @@
+.contact{
+    padding: 250px 0 150px;
+}
+.form-control{
+    margin: 50px 0;
+    padding: 17px 25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: rgba(0, 0, 0, 0.75);
+}
+.contact .contact-img {
+    text-align: right;
+}
+.contact .contact-img img{
+    box-shadow: 4px 4px 45px rgba(0, 0, 0, 0.15);
+    border-radius: 12px;
+}
+.contact .title{
+    margin-bottom: 80px;
+}

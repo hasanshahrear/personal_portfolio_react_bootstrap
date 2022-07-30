@@ -1,0 +1,35 @@
+.footer{
+    background: #FFFFFF;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.15);
+}
+.footer-logo{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 70px;
+    color: #000000;
+}
+.copyright-text{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: rgba(0, 0, 0, 0.75);
+}
+.social-icons{
+    font-size: 15px;
+}
+.social-icons a{
+    height: 35px;
+    width: 35px;
+    border: 2px solid #000;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+}
+.footer p{
+    margin: 0;
+}

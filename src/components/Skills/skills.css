@@ -1,0 +1,28 @@
+.skill label{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    margin-bottom: 15px;
+}
+
+.skill .progress{
+    height: 20px;
+    border-radius: 15px;
+    background-color: #EDEDED;
+    margin-bottom: 25px;
+}
+.skill .progress-bar{
+    border-radius: 15px;
+    background-color: #000000;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+    text-align: left;
+    padding-left: 25px;
+}

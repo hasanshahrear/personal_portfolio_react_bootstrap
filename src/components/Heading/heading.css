@@ -1,0 +1,21 @@
+.title{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 59px;
+    color: #000000;
+    position: relative;
+}
+.title::after{
+    content: "";
+    height: 8px;
+    width: 64px;
+    background: #000000;
+    position: absolute;
+    margin: 0 auto;
+    bottom: -10px;
+    display: block;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
