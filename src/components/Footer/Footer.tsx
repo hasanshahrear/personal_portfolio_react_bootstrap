@@ -3,7 +3,7 @@ import {Container, Row, Col, Stack} from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebookF, faTwitter, faLinkedinIn, faBehance } from '@fortawesome/free-brands-svg-icons';
 
-import './footer.css';
+import './Footer.css';
 
 const Footer = () => {
   return (

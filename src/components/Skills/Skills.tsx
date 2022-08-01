@@ -1,6 +1,6 @@
 import React from 'react'
 import { ProgressBar, Row, Col } from 'react-bootstrap'
-import './skills.css'
+import './Skills.css'
 
 type SkillInfo = {
     skill: string;

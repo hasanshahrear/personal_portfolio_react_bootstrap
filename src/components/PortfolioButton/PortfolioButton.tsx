@@ -1,5 +1,5 @@
 import React from 'react';
-import './portfoliobutton.css';
+import './Portfoliobutton.css';
 
 const PortfolioButton = ({button, filter}) => {
   return (

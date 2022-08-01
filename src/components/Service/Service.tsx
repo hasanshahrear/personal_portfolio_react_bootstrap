@@ -1,5 +1,5 @@
 import React from 'react'
-import './service.css'
+import './Service.css'
 
 type ServiceType = {
     url: string;

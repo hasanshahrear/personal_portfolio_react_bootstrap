@@ -1,7 +1,7 @@
 import React from 'react';
 import {Container, Row, Col, Form, Button} from 'react-bootstrap';
 import {Heading} from '../../components';
-import './contact.css';
+import './Contact.css';
 import ContactImage from '../../assets/img/about.png'
 
 const Contact = () => {

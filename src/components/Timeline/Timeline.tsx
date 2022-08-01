@@ -1,6 +1,6 @@
 import React from 'react';
 import { Row, Col } from 'react-bootstrap';
-import './timeline.css';
+import './Timeline.css';
 
 interface TimelineInfo{
     start: string;

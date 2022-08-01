@@ -2,7 +2,7 @@ import React from 'react';
 import HeroImage from '../../assets/img/hero.png';
 import {Container, Row, Col, Button} from 'react-bootstrap';
 import Typed from 'react-typed';
-import './hero.css'
+import './Hero.css'
 
 const Hero = () => {
   return (

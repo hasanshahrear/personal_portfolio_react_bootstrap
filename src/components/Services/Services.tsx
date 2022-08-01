@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import {Service} from '../../components';
-import './services.css'
+import './Services.css'
 
 import icon1 from '../../assets/img/icon1.png'
 import icon2 from '../../assets/img/icon2.png'

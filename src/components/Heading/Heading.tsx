@@ -1,4 +1,4 @@
-import './heading.css'; 
+import './Heading.css'; 
 
 type HeadingType = {
   text: string;
