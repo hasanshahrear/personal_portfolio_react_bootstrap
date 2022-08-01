@@ -11,7 +11,7 @@ const Skills = (skills:SkillInfo) => {
   const {skill, percentage} = skills;
   return (
     <Row className="skill">
-        <Col xs={12} md={8}>
+        <Col xs={12} xl={8}>
             <label>{skill}</label>
             <ProgressBar now={percentage} label={`${percentage}%`}/>
         </Col>

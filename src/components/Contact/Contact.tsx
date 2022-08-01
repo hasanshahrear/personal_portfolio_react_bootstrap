@@ -9,7 +9,7 @@ const Contact = () => {
     <div className="contact" id="contact">
         <Container>
             <Row className="align-items-center">
-                <Col xs={12} lg={6}>
+                <Col xs={12} lg={7} xl={6}>
                     <Heading text="Hire me" />
                     <Form>
                         <Form.Control type="text" placeholder="Your Name" />
@@ -20,7 +20,7 @@ const Contact = () => {
                         </Button>
                     </Form>
                 </Col>
-                <Col xs={12} lg={6}>
+                <Col className='d-none d-lg-block' lg={5} xl={6}>
                     <div className='contact-img'>
                         <img src={ContactImage} alt="contact_image" className="img-fluid" />
                     </div>

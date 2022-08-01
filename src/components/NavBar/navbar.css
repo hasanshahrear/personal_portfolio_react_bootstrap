@@ -49,6 +49,10 @@
     .navbar{
         padding: 0;
     }
+   
+}
+
+@media screen and (max-width:991px) {
     .navbar-nav a{
         display: block;
         margin: 15px 0;

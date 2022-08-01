@@ -1,6 +1,6 @@
 import AboutImage from '../../assets/img/about.png';
 import {Container, Row, Col, Tabs, Tab} from 'react-bootstrap';
-import './about.css'
+import './About.css'
 import {Skills, Timeline, Certificate, Heading} from '../../components'
 
 const About = () => {
